@@ -22,3 +22,8 @@ Open http://localhost:8080 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
+
+## Screenshot
+<img width="1552" alt="image" src="https://github.com/khushipr/TODO-App/assets/72306997/30978506-3227-4725-8fab-198b2d722f5d">
+<img width="1552" alt="image" src="https://github.com/khushipr/TODO-App/assets/72306997/5f2b3d64-15c1-450c-a339-8ae8751f3e25">
+
